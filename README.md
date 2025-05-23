@@ -11,6 +11,6 @@ A dynamic and interactive sales dashboard that visualizes key sales metrics usin
 - Interactive charts and slicers
 
 📁 Files Included:
-- `sales_dashboard.xlsx` - Main Excel dashboard
+- Advanced_Excel_Dashboard_Power_Query.xlsx - Main Excel dashboard
 
 Made with 💙 by Mensi
